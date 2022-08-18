@@ -1,0 +1,8 @@
+1,Brian,bhouts@gmail.com,my house,555-222-3333
+2,Tucker,tucker@gmail.com,His Dog House,999-159-3258
+4,Brandy,Decatur IN,brandy@gmail.com,777-777-7777
+5,Neenah,neenah@gmail.com,West Coast,666-666-6666
+6,Nathan,New York,nathan@gmail.com,555-555-5555
+10,Max,Uptown,max@gmail.com,444-333-3333
+9,Bob,bob@gmail.com,Celina,333-333-2222
+11,John,johnboy@gmail.com,Berne,545-222-3333
